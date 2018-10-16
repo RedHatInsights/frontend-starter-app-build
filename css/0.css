@@ -1,0 +1,8 @@
+button:focus {
+  outline: none; }
+
+.sample-component {
+  font-size: var(--pf-global--FontSize--md);
+  margin: var(--pf-global--spacer--xl);
+  display: block; }
+
