@@ -1,6 +1,6 @@
 {
   "app_name": "starter-app",
-  "src_hash": "a4d1320c79b71ef8f8d4ab89f665d7af9ed6ea02",
+  "src_hash": "ec19a984cac18b1ef8457749ce864972134e8ee5",
   "src_tag": "",
   "src_branch": "master",
   "npm_info": {
@@ -225,7 +225,7 @@
     "npm-run-all": {
       "version": "4.1.3",
       "from": "npm-run-all@4.1.3",
-      "resolved": "https://registry.npmjs.org/npm-run-all/-/npm-run-all-4.1.3.tgz"
+      "resolved": "https://insights:d985c03594f5f476782b0eb66d7458cd@insights-npm-cache-nginx-insights-npm-cache.1b13.insights.openshiftapps.com/npm-run-all/-/npm-run-all-4.1.3.tgz"
     },
     "prop-types": {
       "version": "15.6.2",
@@ -295,7 +295,7 @@
     "stylelint-config-recommended-scss": {
       "version": "3.2.0",
       "from": "stylelint-config-recommended-scss@3.2.0",
-      "resolved": "https://registry.npmjs.org/stylelint-config-recommended-scss/-/stylelint-config-recommended-scss-3.2.0.tgz"
+      "resolved": "https://insights:d985c03594f5f476782b0eb66d7458cd@insights-npm-cache-nginx-insights-npm-cache.1b13.insights.openshiftapps.com/stylelint-config-recommended-scss/-/stylelint-config-recommended-scss-3.2.0.tgz"
     },
     "stylelint-scss": {
       "version": "3.3.0",
@@ -341,7 +341,7 @@
 },
   "travis": {
     "event_type": "push",
-    "build_number": "282",
-    "build_web_url": "https://travis-ci.org/RedHatInsights/insights-frontend-starter-app/builds/493801683"
+    "build_number": "284",
+    "build_web_url": "https://travis-ci.org/RedHatInsights/insights-frontend-starter-app/builds/496027909"
   }
 }
