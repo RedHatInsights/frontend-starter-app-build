@@ -1,11 +1,11 @@
 {
   "app_name": "starter",
-  "src_hash": "7a44fb524297dd608ca33131e7c5bcf3a2f839e8",
+  "src_hash": "03cd5682657b6e53b91bd7ddae7060f26454fb5c",
   "src_tag": "",
   "src_branch": "master",
   "travis": {
     "event_type": "push",
-    "build_number": "404",
-    "build_web_url": "https://travis-ci.org/RedHatInsights/insights-frontend-starter-app/builds/607317135"
+    "build_number": "407",
+    "build_web_url": "https://travis-ci.org/RedHatInsights/insights-frontend-starter-app/builds/607347417"
   }
 }
