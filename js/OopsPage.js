@@ -1,2 +1,2 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{200:function(n,e,a){"use strict";a.r(e);var t=a(0),l=a.n(t),c=a(4),u=a(188),i=a(192);e.default=Object(c.h)((function(){return l.a.createElement(u.Main,null,l.a.createElement(i.Unavailable,null))}))}}]);
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{200:function(n,e,l){"use strict";l.r(e);var a=l(0),t=l.n(a),c=l(4),i=l(188),o=l(192);e.default=Object(c.h)((function(){return Object(a.useEffect)((function(){var n,e,l;null===(n=insights)||void 0===n||null===(e=n.chrome)||void 0===e||null===(l=e.appAction)||void 0===l||l.call(e,"oops-page")}),[]),t.a.createElement(i.Main,null,t.a.createElement(o.Unavailable,null))}))}}]);
 //# sourceMappingURL=OopsPage.js.map
