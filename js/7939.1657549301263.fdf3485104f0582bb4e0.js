@@ -1,0 +1,1 @@
+(self.webpackChunkfrontend_starter_app=self.webpackChunkfrontend_starter_app||[]).push([[7939],{7939:()=>{}}]);
