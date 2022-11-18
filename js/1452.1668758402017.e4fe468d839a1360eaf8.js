@@ -1,1 +1,0 @@
-(self.webpackChunkfrontend_starter_app=self.webpackChunkfrontend_starter_app||[]).push([[1452],{1452:()=>{}}]);

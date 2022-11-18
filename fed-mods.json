@@ -1,11 +1,11 @@
 {
     "starter": {
         "entry": [
-            "/beta/apps/starter/starter.1668758401991.e4fe468d839a1360eaf8.js"
+            "/beta/apps/starter/starter.1668783282931.4e88fd907c07099610c4.js"
         ],
         "modules": [
-            "/beta/apps/starter/css/3670.css",
-            "/beta/apps/starter/js/3670.1668758402017.e4fe468d839a1360eaf8.js"
+            "/beta/apps/starter/js/670.1668783282957.4e88fd907c07099610c4.js",
+            "/beta/apps/starter/css/670.40a602a4c7d191e557cc.css"
         ]
     }
 }
